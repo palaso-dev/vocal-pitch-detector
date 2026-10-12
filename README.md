@@ -16,4 +16,4 @@ All processing is done in the browser using the Web Audio API.
 - Runs entirely in the browser (no backend)
 
 ## Web Page
-https://palaso0.github.io/vocal-pitch-detector/
+https://palaso-dev.github.io/vocal-pitch-detector/
